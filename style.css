@@ -1,0 +1,12 @@
+p {
+    background-color: rgb(247, 227, 15);
+    border: solid rgb(241, 6, 6) 2px ;
+    margin: 5px 160px 5px 160px;
+}
+
+h1 {
+    margin: 5px 160px 5px 160px;
+}
+span {
+    border: solid rgb(53, 4, 212) 2px ;
+}
